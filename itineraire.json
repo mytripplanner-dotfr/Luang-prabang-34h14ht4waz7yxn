@@ -1,0 +1,170 @@
+{
+  "pays": "Laos",
+  "drapeau": "🇱🇦",
+  "symbole": "🐘",
+  "titre": "Évasion Relaxante à Luang Prabang : Temples, Nature et Sérénité",
+  "budget_total": "Environ 820 €/personne",
+  "duree": "3 jours",
+  "temps_vol": "7h30 (depuis Manille, Philippines)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée Sereine et Premiers Pas Mékongiens",
+      "legende": "Après le voyage, installez-vous doucement dans l'ambiance paisible de Luang Prabang, ville classée au patrimoine mondial de l'UNESCO. Une balade le long du Mékong vous offrira un premier aperçu de la vie locale et des couchers de soleil inoubliables, parfaits pour débuter votre séjour en douceur.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "<strong>🛬 Arrivée à Luang Prabang</strong>: Atterrissage à l'aéroport international et transfert vers votre hôtel pour un début de séjour sans stress.",
+        "<strong>🛏️ Installation et Détente</strong>: Check-in à l'hôtel et moment de repos bien mérité pour se rafraîchir après le vol.",
+        "<strong>🚶‍♂️ Balade au bord du Mékong</strong>: Promenez-vous tranquillement le long du fleuve, observez les pêcheurs et les scènes de vie quotidienne au coucher du soleil."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport international de Luang Prabang, Luang Prabang",
+          "categorie": "Aéroport",
+          "coords": { "lat": 19.896, "lng": 102.160 }
+        },
+        {
+          "nom_recherche": "Mékong, Luang Prabang",
+          "categorie": "Fleuve",
+          "coords": { "lat": 19.889, "lng": 102.133 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le Laos offre un visa à l'arrivée pour de nombreuses nationalités. Vérifiez les exigences spécifiques pour les citoyens philippins avant le départ."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Cascades Azur et Savoir-Faire Local",
+      "legende": "Plongez dans la fraîcheur des cascades de Kuang Si, un havre de paix aux eaux turquoise, idéal pour la baignade et la relaxation. L'après-midi, découvrez l'artisanat local dans un cadre apaisant, loin de l'agitation urbaine, pour une immersion culturelle douce.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "<strong>🏞️ Détente aux Chutes de Kuang Si</strong>: Baignade rafraîchissante dans les piscines naturelles et exploration du parc aux papillons environnant.",
+        "<strong>🦋 Visite du Centre de Sauvetage des Ours</strong>: Observez les ours noirs d'Asie sauvés du braconnage, situé au pied des chutes, une activité éducative et touchante.",
+        "<strong>🧵 Découverte de l'Artisanat Lao</strong>: Visite d'un centre d'artisanat textile pour admirer le travail minutieux des artisans locaux et leurs créations uniques."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Chutes de Kuang Si, Luang Prabang",
+          "categorie": "Cascade",
+          "coords": { "lat": 19.756, "lng": 101.996 }
+        },
+        {
+          "nom_recherche": "Centre de Sauvetage des Ours, Luang Prabang",
+          "categorie": "Sanctuaire animalier",
+          "coords": { "lat": 19.756, "lng": 101.996 }
+        },
+        {
+          "nom_recherche": "Ock Pop Tok Living Crafts Centre, Luang Prabang",
+          "categorie": "Centre artisanal",
+          "coords": { "lat": 19.882, "lng": 102.169 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Prévoyez des maillots de bain et des serviettes pour profiter pleinement des piscines naturelles des chutes de Kuang Si."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌅",
+      "titre": "Aube Spirituelle et Panoramas Saisissants",
+      "legende": "Commencez la journée par une expérience culturelle unique avec la cérémonie des aumônes, un moment de recueillement profond. Ensuite, admirez la vue imprenable sur la ville depuis le Mont Phousi avant de vous préparer pour le départ, la tête pleine de souvenirs paisibles et enrichissants.",
+      "lieu": "Luang Prabang",
+      "activites": [
+        "<strong>🙏 Cérémonie du Tak Bat (Aumônes)</strong>: Observez respectueusement les moines collecter leurs aumônes au lever du soleil, une tradition ancestrale.",
+        "<strong>🌅 Ascension du Mont Phousi</strong>: Montez les marches pour un panorama à 360° sur Luang Prabang, le Mékong et les montagnes environnantes.",
+        "<strong>✈️ Départ de Luang Prabang</strong>: Transfert à l'aéroport pour votre vol retour, emportant avec vous la sérénité du Laos."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Rue principale, Luang Prabang",
+          "categorie": "Rue historique",
+          "coords": { "lat": 19.890, "lng": 102.138 }
+        },
+        {
+          "nom_recherche": "Mont Phousi, Luang Prabang",
+          "categorie": "Montagne sacrée",
+          "coords": { "lat": 19.890, "lng": 102.138 }
+        },
+        {
+          "nom_recherche": "Aéroport international de Luang Prabang, Luang Prabang",
+          "categorie": "Aéroport",
+          "coords": { "lat": 19.896, "lng": 102.160 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🙏",
+          "titre": "Respect",
+          "texte": "Lors de la cérémonie des aumônes, habillez-vous modestement, gardez vos distances et évitez d'interrompre les moines ou les fidèles."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 419 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 60 €/pers (tuk-tuks, transferts)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 120 €/pers (3 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180 €/pers (3 nuits, hôtel 3* moyen)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 40 €/pers (entrées, excursions)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Saison sèche (Octobre-Avril) pour un temps ensoleillé et frais.", "symbole": "☀️" },
+    { "titre": "Saison des pluies (Mai-Septembre) pour une végétation luxuriante et moins de foule.", "symbole": "🌧️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Kip Lao (LAK). Les bahts thaïlandais et les dollars américains sont parfois acceptés.", "symbole": "💰" },
+    { "titre": "La langue officielle est le lao. L'anglais est parlé dans les zones touristiques.", "symbole": "🗣️" },
+    { "titre": "En juin, le climat est chaud et humide, avec des averses fréquentes. Prévoyez des vêtements légers et un imperméable.", "symbole": "☔" },
+    { "titre": "Les tuk-tuks sont le moyen de transport le plus courant. Négociez toujours le prix avant de monter.", "symbole": "🛵" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Luang Prabang est classée au patrimoine mondial de l'UNESCO pour son mélange unique d'architecture traditionnelle lao et de bâtiments coloniaux français, remarquablement préservés." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "À Luang Prabang, il est courant de voir des moines bouddhistes utiliser des smartphones. Une image surprenante qui mêle tradition millénaire et modernité connectée au cœur de la spiritualité." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍴", 
+      "titre": "Laap (Larb)", 
+      "description": "Salade de viande hachée (poulet, bœuf, poisson) assaisonnée d'herbes fraîches, de riz grillé moulu et de jus de citron vert. Un plat national frais et parfumé." 
+    },
+    { 
+      "symbole": "🌶️", 
+      "titre": "Tam Mak Hoong (Salade de papaye verte)", 
+      "description": "Version lao de la salade de papaye, souvent plus épicée et plus \"funky\" que sa cousine thaïlandaise, avec de la pâte de poisson fermentée. Un délice pour les palais aventureux." 
+    },
+    { 
+      "symbole": "🍜", 
+      "titre": "Khao Piak Sen", 
+      "description": "Soupe de nouilles de riz épaisses, souvent servie avec du poulet ou du porc, des herbes fraîches et un bouillon riche. Le petit-déjeuner réconfortant par excellence." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/MNL-LPQ/2026-06-10/2026-06-13", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Laos", "url": "https://www.tourismlaos.org/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Luang Prabang", "url": "https://www.accuweather.com/fr/la/luang-prabang/204736/weather-forecast/204736", "symbole": "🌤️" },
+    { "legende": "Hébergements", "titre": "Booking.com Luang Prabang", "url": "https://www.booking.com/city/la/luang-prabang.fr.html", "symbole": "🏨" }
+  ]
+}
